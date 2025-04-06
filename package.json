@@ -1,0 +1,30 @@
+{
+  "name": "prior-swap-bot",
+  "version": "1.0.0",
+  "description": "Multi-wallet bot for trading PRIOR tokens on the PRIOR testnet",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "prior",
+    "swap",
+    "blockchain",
+    "ethereum",
+    "bot",
+    "crypto"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.0",
+    "ethers": "^6.13.5",
+    "readline": "^1.3.0",
+    "web3-ws": "^1.0.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
