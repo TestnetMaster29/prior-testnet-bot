@@ -95,4 +95,4 @@ You can modify these parameters in the code for custom behavior:
 
 MIT
 
-Last update:
+Last updated:
